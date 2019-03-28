@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+}
+.header {
+    height:50px;
+    background-color: grey;
+    color: white;
+    display: flex;
+    margin:0;
+   
+}
+.company {
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 6px;
+    margin-right: 750px;
+    display: flex;
+    align-content: center;
+}
+.links {
+    font-family: sans-serif;
+    width: 75px;
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 10%;
+  
+    
+}
+.mainTopic {
+    height:400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+  
+}
+.headline {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:  80px;
+    text-transform: uppercase;
+    color: yellow;
+    background-color: black;
+    display: flex;
+    justify-items: center; 
+    align-items: center;
+}
+.boxSelect {
+   height:300px;
+   margin-top: 50px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+}
+.box {
+    height: 270px;
+    width: 270px;
+    border-radius: 10%;
+    background-color: aqua;
+}
+.Boxes {
+    height:300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.orangeBox {
+
+    margin-top: 50px;
+    height:90%;
+    width: 35%;
+    background-color: orange;
+}
+.text {
+    margin-top: 50px;
+    margin-left: 10%;
+    width: 400px
+    
+}
+.img-src {
+    margin-top: 50px;
+    margin-left: 30%;
+    max-width: 40%;
+}
+.bottom {
+    margin-top: 50px;
+    height:200px;
+    background-color: grey;
+}
